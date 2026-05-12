@@ -1,2 +1,11 @@
-# esp32-rehabilitation-arm-twin
-Hello, In few words this is a: Embedded rehabilitation arm digital twin using ESP32, FreeRTOS, IMU sensors potencimeter and wireless communication for real-time motion tracking.
+# ESP32 Rehabilitation Arm Twin
+
+Real-time embedded rehabilitation arm system using ESP32 and FreeRTOS for biomechanical motion tracking and digital twin applications.
+
+## Features
+- FreeRTOS multitasking architecture
+- IMU-based motion estimation
+- Wireless communication using ESP-NOW
+- Shoulder and elbow angle estimation
+- Embedded firmware development
+- Rehabilitation and wearable sensing applications
